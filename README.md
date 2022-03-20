@@ -1,6 +1,5 @@
 # STER
 PyTorch code for "Exploring Privileged Features for Relation Extraction with Contrastive Student-Teacher Learning"
-=======
 
 ## Requirements
 - Required
