@@ -1,6 +1,5 @@
 # STER
 PyTorch code for "Exploring Privileged Features for Relation Extraction with Contrastive Student-Teacher Learning"
-<<<<<<< HEAD
 =======
 
 ## Requirements
@@ -18,5 +17,3 @@ To obtain the CoNLL04, SciERC and ADE datasets, please read the details provided
 ## Acknowledgments
 
 Our code is built based on [SpERT](https://github.com/lavis-nlp/spert).
-
->>>>>>> first commit
